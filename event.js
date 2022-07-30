@@ -94,7 +94,7 @@ function myFunction() {
     x -=1;
     }
 }
-alert("Click watch!");
+alert("Click watch!, and you can stop or start music!");
 
  
 
